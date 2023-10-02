@@ -4,7 +4,7 @@
 
 # Generate Password
 
-`generate-password` is a small, simple CLI utility that generates a strong password and copies it to the clipboard for easy, immediate access. Whenever you need a strong password, just run `generate-password` and voila. Done. Paste away.
+`generate-password` is a small CLI utility that generates a strong password and copies it to the clipboard for immediate access. Whenever you need a strong password, just run `generate-password` and voila: paste away.
 
 ```
 Usage:
